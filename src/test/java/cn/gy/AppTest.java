@@ -17,5 +17,6 @@ public class AppTest
     {
         assertTrue( true );
         System.out.println("i love you");
+        System.out.println("i hate you");
     }
 }
